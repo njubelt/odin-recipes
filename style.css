@@ -4,4 +4,12 @@
     background-color: yellow;
     font-style: italic;
     font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+}
+
+.subheader {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aqua;
+    color: black;
 }
